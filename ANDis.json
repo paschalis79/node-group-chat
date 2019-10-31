@@ -1,17 +1,47 @@
-{
-  "name": "node-simple-group-chat",
-  "version": "1.0.0",
-  "description": "A simple group chat built using Node.js and Socket.io",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "GroupWork",
-  "license": "MIT",
-  "dependencies": {
-    "ejs": "^2.6.1",
-    "express": "^4.16.4",
-    "socket.io": "^2.2.0"
+
+[{
+  "id": "1",
+  "name": "suresh",
+  "email": "suresh.babu@and.digital",
+  "title": "chef"
+
   }
+  ,
+  {
+    "id": "2",
+    "name": "stelios",
+    "email": "stelios.kostoglou@and.digital",
+    "title": "travel lover"
+
+  },
+  {
+    "id": "3",
+    "name": "paschalis",
+    "email": "paschalis.vlachos@and.digital",
+    "title": "3D"
+
+  },{
+  "id": "4",
+  "name": "tom",
+  "email": "tom.harris@and.digital",
+  "title": "disney"
+
 }
+,
+  {
+    "id": "5",
+    "name": "george",
+    "email": "george.york@and.digital",
+    "title": "football lover"
+
+  },
+  {
+    "id": "6",
+    "name": "chris",
+    "email": "chris.jones@and.digital",
+    "title": "music lover"
+
+  }
+
+
+]
