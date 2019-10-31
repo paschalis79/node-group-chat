@@ -7,10 +7,6 @@ app.get('/', function(req, res) {
     res.render('index.ejs');
 });
 
-app.get('/test', function(req, res) {
-    res.render('index.ejs');
-});
-
 io.sockets.on('connection', function(socket) {
     socket.on('username', function(username) {
         socket.username = username;
@@ -27,6 +23,6 @@ io.sockets.on('connection', function(socket) {
 
 });
 
-const server = http.listen(80, function() {
-    console.log('listening on *:80');
+const server = http.listen(8080, function() {
+    console.log('listening on *:8080');
 });
