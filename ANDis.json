@@ -3,7 +3,8 @@
   "id": "1",
   "name": "suresh",
   "email": "suresh.babu@and.digital",
-  "title": "chef"
+  "title": "chef",
+  "image":""
 
   }
   ,
@@ -11,35 +12,40 @@
     "id": "2",
     "name": "stelios",
     "email": "stelios.kostoglou@and.digital",
-    "title": "travel lover"
+    "title": "travel lover",
+    "image":"https://avatars.slack-edge.com/2019-10-28/811838027892_ee76f06c067fb38c3333_512.jpg"
 
   },
   {
     "id": "3",
     "name": "paschalis",
     "email": "paschalis.vlachos@and.digital",
-    "title": "3D"
+    "title": "3D",
+    "image":"https://avatars.slack-edge.com/2019-10-23/792970088498_c09d94b42cc73b05fdaa_512.jpg"
 
   },{
   "id": "4",
   "name": "tom",
   "email": "tom.harris@and.digital",
-  "title": "disney"
+  "title": "disney",
+  "image":"https://avatars.slack-edge.com/2019-10-23/805283167364_ac2baf699102b7555fe6_512.png"
 
 }
 ,
   {
     "id": "5",
-    "name": "george",
-    "email": "george.york@and.digital",
-    "title": "football lover"
+    "name": "jonathan",
+    "email": "jonathan.pepler@and.digital",
+    "title": "armchair admiral",
+    "image":"https://avatars.slack-edge.com/2019-10-21/802460426612_f4de1c8e0b10603eb680_512.jpg"
 
   },
   {
     "id": "6",
-    "name": "chris",
-    "email": "chris.jones@and.digital",
-    "title": "music lover"
+    "name": "GG",
+    "email": "gaurav.gupta@and.digital",
+    "title": "foodie",
+    "image":"https://avatars.slack-edge.com/2019-10-29/814039856960_7953a3445a0c03f47882_512.jpg"
 
   }
 
